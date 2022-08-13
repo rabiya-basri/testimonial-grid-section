@@ -21,9 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![testimonial challenge completed screenchot](../images/challenge-completion-screen-shot.png)
-
-
+![challenge-completion-screen-shot](https://user-images.githubusercontent.com/51847270/184496669-17a3194c-4263-466f-9616-6cde19d92b62.png)
 
 ### Links
 
